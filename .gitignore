@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+vessel_kpi.sqlite
+vessel_kpi.sqlite-shm
+vessel_kpi.sqlite-wal
